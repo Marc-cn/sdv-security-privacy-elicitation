@@ -1,4 +1,4 @@
-# SDV Security and Privacy Survey
+# SDV Security and Privacy Elicitation
 
 This repository contains the questionnaire used in the academic study on
 **Security and Privacy of Software-Defined Vehicles (SDVs)**.
