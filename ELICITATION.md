@@ -6,19 +6,12 @@ All questions were answered anonymously and processed in aggregate. The full que
 
 #########################################################################
 
-This work reviews the security and privacy challenges associated with
+Our work reviews the security and privacy challenges associated with
 **Software-Defined Vehicles (SDVs)**, offering insights from both academic
 literature and industry perspectives, and identifying potential threats,
 mitigations, and areas for future research.
 
-In this survey, participants are asked to answer multiple-choice questions
-organized into six main sections. These sections include:
-- an introductory section for statistical purposes,
-- a section on the definition and main features of SDVs,
-- a section on possible security threats,
-- a section on mitigation strategies,
-- questions on Over-The-Air (OTA) security, and
-- a final section on privacy.
+In this survey, you will be asked to answer multiple-choice questions in six main sections. These sections include an introductory section for statistical purposes, a section on the definition and the main features of SDV, a section on possible security threats, a section on mitigation, questions on Over The Air (OTA) security, and finally a section on privacy.
 
 *The first section of the questionnaire is intentionally more detailed, as it
 covers the core features that define the SDV paradigm. Understanding and
@@ -30,7 +23,7 @@ The survey should take approximately **20 minutes** to complete.
 We thank you in advance for participating and highly value your feedback.
 All responses will remain **anonymous**.
 
-1. Introduction / Background
+1. Introduction questions
 These answers are for statistical purposes only. They are anonymous and will be processed in aggregate form.
 
 Q1. Organization type
