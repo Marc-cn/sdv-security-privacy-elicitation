@@ -228,7 +228,9 @@ Others (open-ended)
 Please indicate other possible threats and try to rate each one of them.
 
 # 6. Security Mitigations
-   
+
+Please answer the following questions by rating each item on the scale provided.
+
 (Scale: 1 = low priority, 5 = high priority)
 
 **Q38. Secure Vehicle Software Engineering (SVSE) Lifecycle**
