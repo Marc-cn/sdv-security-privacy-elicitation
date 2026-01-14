@@ -1,8 +1,8 @@
 # SDV Security and Privacy  Elicitation Questionnaire
 
-This document reports the full list of questions used in the expert survey conducted for the study on **Security and Privacy of Software-Defined Vehicles (SDVs)**.
-The survey targets industry practitioners and collects perceptions on SDV definition, threats, mitigations, OTA security, and non-functional properties.
-All questions were answered anonymously and processed in aggregate. Only the questionnaire is published here:
+This document reports the full list of questions used in the expert elicitation.
+The elicitation targets **industry practitioners** and collects perceptions on SDV definition, threats, mitigations, OTA security, and privacy.
+All questions were answered anonymously and processed in aggregate. The full questionnaire, exactly as administered to practitioners, is available here:
 
 #########################################################################
 
