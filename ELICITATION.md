@@ -131,8 +131,6 @@ Automotive Ethernet can play a crucial role in enabling the functionalities of S
 
 Please suggest any additional features and try to rate each one.
 
-Additional SDV features (optional).
-
 # 3. Security Threats
    
 Please answer the following questions by rating each item on the scale provided.
