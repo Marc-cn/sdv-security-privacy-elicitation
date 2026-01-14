@@ -2,7 +2,7 @@
 
 This document reports the full list of questions used in the expert elicitation.
 The elicitation targets **industry practitioners** and collects perceptions on SDV definition, threats, mitigations, OTA security, and privacy.
-All questions were answered anonymously and processed in aggregate. The full questionnaire, exactly as administered to practitioners, is available here:
+All questions were answered anonymously and analyzed in aggregate. The complete questionnaire, exactly as administered to practitioners, is as follows:
 
 #########################################################################
 
