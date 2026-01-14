@@ -185,7 +185,7 @@ How much of a priority is it for your company to avoid or circumvent ransomware?
 
 Do you find IP ownership and security in conflict?
 
-4. Wireless Attack Vectors
+# 4. Wireless Attack Vectors
    
 How critical do you consider the risks posed by the following wireless attack vectors?
 
