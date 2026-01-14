@@ -25,4 +25,4 @@ The questionnaire is made publicly available to support:
 If you use this survey, please cite the associated paper (https://arxiv.org/abs/2411.10612).
 
 ## Anonymity
-Only survey questions are published. No personal data or responses are shared.
+Only elicitation questions are published. No personal data or responses are shared.
