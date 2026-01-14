@@ -4,7 +4,7 @@ This repository contains the questionnaire used in the academic study on
 **Security and Privacy of Software-Defined Vehicles (SDVs)**.
 
 ## Contents
-  Full list of survey questions used to collect expert opinions from industry.
+  Full list of elicitation questions used to collect expert opinions from industry.
 
 ## Purpose
 The survey investigates:
